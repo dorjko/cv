@@ -1,0 +1,15 @@
+img {
+  border-radius: 20px;
+}
+th {
+  background-color: #2a5a72;
+  color: white;
+}
+hr {
+  width: 70%;
+  text-align: left;
+  margin-left: 15px;
+}
+#descr {
+  width: 80%;
+}
